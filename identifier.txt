@@ -1,0 +1,9 @@
+#include
+<stdio.h>
+x
+y
+x
+x
+y
+printf("%d",
+x);
